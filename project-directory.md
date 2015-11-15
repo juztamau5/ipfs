@@ -70,6 +70,9 @@ These are all the repos found in the IPFS Github organization. If you still can'
 * [py-ipfs](https://github.com/ipfs/py-ipfs)  
     python implementation of IPFS.
 
+* [ipfs-embedded](https://github.com/juztamau5/ipfs-embedded)  
+    An IPFS implementation in C++ and Go for inclusion in a C program.
+
 * [go-ipld](https://github.com/ipfs/go-ipld)  
     This is the Go implementation of the IPLD spec.
 
